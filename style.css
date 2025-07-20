@@ -2,13 +2,13 @@
 
 .header {
   border: 3px solid #0fbfaa;
-
-  .header p {
-    font-size: 15px;
-    font-weight: bold;
-  }
 }
-/* 修正：標準CSS構文に変更 */
+
+.header p {
+  font-size: 15px;
+  font-weight: bold;
+}
+/* 修正済：標準CSS構文に変更 */
 
 .img {
   background: url(img/TravelScenery2025.png);
