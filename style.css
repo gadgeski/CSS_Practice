@@ -8,6 +8,7 @@
     font-weight: bold;
   }
 }
+/* 修正：標準CSS構文に変更 */
 
 .img {
   background: url(img/TravelScenery2025.png);
