@@ -3,7 +3,7 @@
 .header {
   border: 3px solid #0fbfaa;
 
-  p {
+  .header p {
     font-size: 15px;
     font-weight: bold;
   }
